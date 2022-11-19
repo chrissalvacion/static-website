@@ -1,0 +1,26 @@
+body{
+    margin:2rem;
+    background-color: black;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width:95%;
+    border-radius:8px;
+    padding: 2rem 2rem 2rem 2rem;
+    background-color:grey;
+    margin:auto;
+    color:black;
+    text-align:center;
+}
+
+h1{
+    font-weight:bold;
+    font-kerning: normal;
+    letter-spacing: 0.5em;
+}
+h2{
+    font-weight:normal;
+    margin:0;
+    line-height:0%;
+}
